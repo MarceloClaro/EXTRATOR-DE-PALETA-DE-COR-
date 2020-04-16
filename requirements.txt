@@ -1,0 +1,6 @@
+Flask
+Pillow
+scipy
+numpy
+scikit-learn
+requests>=2.20.0
